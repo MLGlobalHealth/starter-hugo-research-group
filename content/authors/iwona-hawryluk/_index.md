@@ -10,12 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Postdoctoral Research Associate
-
-# Organizations/Affiliations
-organizations:
-- name: Imperial College London
-  url: "https://www.imperial.ac.uk/people/i.hawryluk19"
+role: Alumni
 
 # Short bio (displayed in user profile at end of posts)
 bio: I use machine learning methods to understand infectious diseases dynamics.
@@ -50,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:i.hawryluk19@imperial.ac.uk'   # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:iwo.hawryluk@gmail.com'   # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/iwonahaw
@@ -75,7 +70,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
-My work focuses on applications of modern probabilistic machine learning methods to modelling infectious disease dynamics. In my PhD project I looked at developing statistical methods for characterising the severity of emerging pathogens. I was also involved in modelling the Covid-19 epidemic in Brazil.
+My work at Imperial College London focused on applications of modern probabilistic machine learning methods to modelling infectious disease dynamics. In my PhD project I looked at developing statistical methods for characterising the severity of emerging pathogens. I was also involved in modelling the Covid-19 epidemic in Brazil.
+
+See my [personal website](https://ihawryluk.github.io/) for the current role and activities.
