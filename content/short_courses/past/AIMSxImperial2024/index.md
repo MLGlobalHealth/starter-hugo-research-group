@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "AIMS-Imperial workshop: Modern Statistics and Machine Learning for Global Health"
+title: "AIMS-Imperial Rwanda 2024: Modern Statistics and Machine Learning for Global Health"
 subtitle: ''
 summary: 'In February 2024, 4 members of the Machine Learning and Global Health Network visited AIMS Rwanda to deliver a 3-day workshop on modern methods at the intersection of epidemiology, statistical modelling and computer science, including probabilistic programming using Stan, computationally efficient non-parametric Bayesian inference, statistical techniques for infectious disease modelling and public health, and phylogenetics.'
 tags: []
@@ -26,8 +26,26 @@ links:
   url: https://github.com/MlGlobalHealth/aims_rwanda_2024
 
 ---
+<style>
+  fig-center img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 
-**Course Contents**
+  fig-center figcaption {
+      text-align: center;
+  }
+
+  p {
+      text-align: justify;
+  }
+</style>
+
+<p class="text">
+In February 2024, 4 members of the Machine Learning and Global Health Network visited AIMS Rwanda to deliver a 3-day workshop on modern methods at the intersection of epidemiology, statistical modelling and computer science, including probabilistic programming using Stan, computationally efficient non-parametric Bayesian inference, statistical techniques for infectious disease modelling and public health, and phylogenetics.
+
+## Course Contents
 
 ***Thursday  February 22*** 
 
@@ -70,4 +88,26 @@ Practical 5: Fitting an SIR model in Stan (11.00-13.00) 
 **Course material**
 All course material is freely available from https://github.com/MLGlobalHealth/aims_rwanda_2024
 
-![alt](featured.jpg)
+## Course testimonials and 📸
+A few quotes from the course:
+
+_“The course is very important. In this era of AI and Machine learning, it may be the time to train more youngsters and senior researchers to explore more about the use of AI in the field of modelling and treating communicable diseases.”_
+
+
+_“I have been enjoying the content and learning Modern Statistics and Machine Learning for Global Health, methodology used was really valuable.”_
+</p>
+
+<center>
+  <img src="featured.jpg" width="1080"/>
+  <figcaption text-align: center></figcaption>
+  <img src="rwanda_course_1.jpg" width="1080"/>
+  <figcaption text-align: center></figcaption>
+  <img src="rwanda_course_2.png" width="1080"/>
+  <figcaption text-align: center></figcaption>
+  <img src="rwanda_course_3.jpg" width="1080"/>
+  <figcaption text-align: center></figcaption>
+  <img src="rwanda_course_4.png" width="1080"/>
+  <figcaption text-align: center></figcaption>
+  <img src="rwanda_course_5.png" width="1080"/>
+  <figcaption text-align: center></figcaption>
+</center>
