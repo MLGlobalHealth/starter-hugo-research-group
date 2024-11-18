@@ -22,6 +22,39 @@ main:
   - name: Contact
     url: contact
     weight: 60
-  - name: Workshops
-    url: workshops
-    weight: 60
+  - name: Short courses
+    identifier: short-courses
+    url: short_courses
+    weight: 70
+  - name: Past
+    parent: short-courses
+    url: short_courses/past
+    weight: 10
+  - name: Upcoming
+    parent: short-courses
+    url: short_courses/upcoming
+    weight: 20
+  - name: AIMSxImperial South Africa
+    identifier: sa_aimsximperial2025
+    url: sa_aimsximperial2025
+    weight: 80
+  - name: Overview
+    parent: sa_aimsximperial2025
+    url: sa_aimsximperial2025/overview/
+    weight: 10
+  - name: Application
+    parent: sa_aimsximperial2025
+    url: sa_aimsximperial2025/application/
+    weight: 20
+  - name: Programme
+    parent: sa_aimsximperial2025
+    url: sa_aimsximperial2025/programme/
+    weight: 30
+  - name: Lecturers
+    parent: sa_aimsximperial2025
+    url: sa_aimsximperial2025/lecturers/
+    weight: 40
+  - name: Past short courses
+    parent: sa_aimsximperial2025
+    url: /short_courses/past
+    weight: 50
