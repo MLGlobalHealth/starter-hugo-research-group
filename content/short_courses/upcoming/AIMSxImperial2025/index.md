@@ -53,5 +53,4 @@ Attendees will learn on the course through a blended mix of lectures, hands-on c
 <a href="https://mlgh.net/sa_aimsximperial2025/overview/" class="button">More information<a/>
 <a href="https://mlgh.net/sa_aimsximperial2025/application/" class="button">Apply<a/>
 </center>
-
-
+<br>
