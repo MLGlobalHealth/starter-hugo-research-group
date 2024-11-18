@@ -21,8 +21,6 @@
 
 #### 24 March, Day 1
 ***Refresher***
-
-
 1. Welcome: Introductions (9.00 - 9.30)
 
 2. Recap python basics and Bayesian inference (09.30 – 10:30)
@@ -38,52 +36,38 @@
 7. Lecture: Intro to Stan (continued) (13.30 - 14.00)
 
 8. Hands-on: Introduction to statistical learning with Stan in python (14.00 - 16.00)
-    + linear models
-    + generalised linear models
+
 
 #### 25 March, Day 2
 ***Scalable Gaussian process regression models in Stan***
 
-
 1. Recap session and Q&A in break-out rooms (max 10 ppl) (09.00 - 09.30)
 
 2. Lecture: Intro to Gaussian processes (09.30-10.30)
-    + Motivations/applications
-    + Covariance function
-    + Different kernels
 
 3. Break (10.30-11.00)
 
-4. Scalable Gaussian process regression models in Stan (11.00-11.30)
-    + Motivate approximations
-    + 1D
-    + 2D
-    + Introduce practical
+4. Lecture: Scalable Gaussian process regression models in Stan (11.00-11.30)
 
 5. Lunch (12.30-13.30)
 
 6. Inspirational Lecture: Two research talks from the Machine Learning and Global Health Network (13.30 - 14.30)
 
 7. Hands-on: Scalable Gaussian process regression models (14.00-16.00)
-    + Implement two GP models, provide partial code to complete
 
 8. Social: BBQ or similar (18.00 - 20.00)
+
 
 #### 26 March, Day 3
 ***Gaussian processes continued***
 
-
 1. Recap session and Q&A in break-out rooms (max 10 ppl) (09.00 - 09.30)
 
 2. Lecture/Hands-on: Scalable Gaussian process regression models (09:30 – 10:30)
-    + HSGPs
-    + Examples including real world example
 
 3. Break (10.30-11.00)
 
 4. Group project (11.00 - 12.30)
-    + Bring together everything from the first two days -> new datasets/problems, implementing basic regression models, hierarchical models and GP approximations
-    + Mix together AIMS and non-AIMS students
 
 5. Lunch (12:30-13:30)
 
@@ -113,25 +97,14 @@
 #### 28 March, Day 5
 ***Phylogenetics***
 
-
 1. Lecture: Introduction to phylogenetics (09:00-10:30)
-    + Content developed already
-    + Basic coalescent theory (Carsten Wiuf’s book chapter 1)
 
 2. Break (10.30-11.00)
 
 3. Practical: Running a phylogenetic pipeline (11:00-12:30)
-    + Fix alignment
-    + Build tree with neighbour-joining algorithm and MLE
-    + Spot the recombinant
-    + Root tree
-    + Bootstrapping
 
 4. Lunch (12:30-13:30)
 
 5. Guided practical: More phylogenetics (13:30 – 14:30)
-    + Example using new Mpox data
-    + Tree dating -> date origin of MPox
 
 6. Wrap-up (14:30 – 15:00)
-
