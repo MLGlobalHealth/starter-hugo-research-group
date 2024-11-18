@@ -3,11 +3,10 @@
 
 <style>
   h1 {
-      color: rgb(0, 0, 205)
+      color: rgb(0, 0, 0)
   }
   h3 {
-/*       color: rgb(255, 182, 193) */
-      color: rgb(0, 191, 255)
+      color: rgb(0, 191, 255);
   }
   h4 {
       color: rgb(0, 191, 255)
@@ -26,6 +25,23 @@
     font-size:25px
 }
 
+.background-img {
+  position: absolute;
+  z-index: -1;
+  top:690 px;
+}
+
+.text {
+  position: relative;
+  z-index: 1;
+}
+
+.space { margin-top: 630px; }
+
+.shift-up-img { margin-top: -240px;}
+
+.shift-up-title { margin-top: -35px;}
+
 </style>
 
 <center>
@@ -34,18 +50,27 @@
 <img src="../resources/ammi.png" width="200" style="display:inline-block;"/>
 </center>
 
+<br>
+<br>
+
+<div class="shift-up-title"></div>
 
 # AI and Probabilistic Programming for Global Health in Africa
 
 
-### A hands-on course for students and researchers at the intersection of statistics and public health
+<div class="shift-up-img"></div>
+<img src="../resources/cape_town.jpg" width="960" class="background-img"/>
 
+
+<div class="space"></div>
+
+### A hands-on course for students and researchers at the intersection of statistics and public health
 
 **24th - 28th March 2025**
 <br/>
 **Location**: AIMS Cape Town, South Africa
 <br/>
-**Organised by:** Department of Mathematics, Imperial College London and the Machine Learning and Global Health Network
+**Organised by:** Department of Mathematics, Imperial College London; the Machine Learning and Global Health Network; and the African Institute for Mathematical Sciences
 
 
 #### Overview
@@ -86,5 +111,4 @@ This one-week course will cover how you can integrate modern statistical techniq
 <a href="https://mlgh.net/sa_aimsximperial2025/application/" class="button">Apply<a/>
 </center>
 
-<img src="../resources/cape_town.jpg" width="1080"/>
 
