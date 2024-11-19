@@ -11,10 +11,9 @@
 </style>
 
 <center>
-<img src="../resources/imperial.png" width="250" hspace="50" style="display:inline-block;margin:10px;"/>
+<img src="../resources/imperial.png" width="250" style="display:inline-block;margin:5px;"/>
 <img src="../resources/mlgh.png" width="200" hspace="50" style="display:inline-block;margin:50px;"/>
-<img src="../resources/ammi.png" width="200" style="display:inline-block;"/>
-</center>
+<img src="../resources/ammi.png" width="200" style="display:inline-block;margin:-3px"/></center>
 
 # Application
 **Cost: R3,600 (ZAR)**
