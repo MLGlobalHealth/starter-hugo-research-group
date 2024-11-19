@@ -108,7 +108,7 @@ This one-week course will cover how you can integrate modern statistical techniq
   + Attendees should be familiar with git for reproducible analyses and collaborative coding.
 
 <center>
-<a href="https://mlgh.net/sa_aimsximperial2025/application/" class="button">Apply<a/>
+<a href="https://mlgh.net/ms_ml_short_course/application/" class="button">Apply<a/>
 </center>
 <br>
 
