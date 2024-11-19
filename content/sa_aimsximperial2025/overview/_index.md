@@ -45,9 +45,9 @@
 </style>
 
 <center>
-<img src="../resources/imperial.png" width="250" hspace="50" style="display:inline-block;margin:10px;"/>
+<img src="../resources/imperial.png" width="250" style="display:inline-block;margin:5px;"/>
 <img src="../resources/mlgh.png" width="200" hspace="50" style="display:inline-block;margin:50px;"/>
-<img src="../resources/ammi.png" width="200" style="display:inline-block;"/>
+<img src="../resources/ammi.png" width="200" style="display:inline-block;margin:-3px"/>
 </center>
 
 <br>
@@ -55,7 +55,7 @@
 
 <div class="shift-up-title"></div>
 
-# AI and Probabilistic Programming for Global Health in Africa
+# Modern Statistics and Machine Learning for Population Health in Africa
 
 
 <div class="shift-up-img"></div>
@@ -64,7 +64,7 @@
 
 <div class="space"></div>
 
-### A hands-on course for students and researchers at the intersection of statistics and public health
+### A hands-on course for students and researchers at the intersection of statistics, probabilistic programaming, and population health
 
 **24th - 28th March 2025**
 <br/>
@@ -110,5 +110,5 @@ This one-week course will cover how you can integrate modern statistical techniq
 <center>
 <a href="https://mlgh.net/sa_aimsximperial2025/application/" class="button">Apply<a/>
 </center>
-
+<br>
 
