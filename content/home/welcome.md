@@ -41,3 +41,9 @@ Areas of research include:
   * Graphs and networks
   * Kernel methods
 
+
+<text style="font-size: 45px;">📢</text> &nbsp; **New short course**
+
+We are thrilled to announce our next short course in *Modern Statistics and Machine Learning for Population Health in Africa* in beautiful *Cape Town, South Africa* from <br>*24th to 28th March 2025*.
+<br>
+Click [here](https://mlgh.net/ms_ml_short_course/overview/) to find out more!
