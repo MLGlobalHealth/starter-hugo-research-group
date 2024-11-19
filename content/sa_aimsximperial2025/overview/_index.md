@@ -55,7 +55,7 @@
 
 <div class="shift-up-title"></div>
 
-# AI and Probabilistic Programming for Global Health in Africa
+# Modern Statistics and Machine Learning for Population Health in Africa
 
 
 <div class="shift-up-img"></div>
@@ -64,7 +64,7 @@
 
 <div class="space"></div>
 
-### A hands-on course for students and researchers at the intersection of statistics and public health
+### A hands-on course for students and researchers at the intersection of statistics, probabilistic programaming, and population health
 
 **24th - 28th March 2025**
 <br/>
