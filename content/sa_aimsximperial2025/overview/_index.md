@@ -110,5 +110,5 @@ This one-week course will cover how you can integrate modern statistical techniq
 <center>
 <a href="https://mlgh.net/sa_aimsximperial2025/application/" class="button">Apply<a/>
 </center>
-
+<br>
 
