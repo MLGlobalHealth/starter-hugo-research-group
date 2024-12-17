@@ -23,14 +23,12 @@ External applicants should complete an application form (link below) that will r
   + Link to GitHub profile
   + Short description of previous projects
   + Details of one referee
-  + Short bio/personal statement on why they want to attend/what they hope to gain from the course
+  + Short bio/personal statement
 
 **Registration fees:** R6,600 (ZAR)
 <br>(_The registration fee includes the 5 day course, 3 meals per day, and a social dinner_)
 
 **Deadline to apply:** January 31, 2025
-
-Applicants may also be required to complete a short test covering python knowledge and basic Bayesian inference.
 
 <center>
 <text style="font-size: 35px;"> <b>
