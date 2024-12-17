@@ -64,7 +64,7 @@
 
 <div class="space"></div>
 
-### A hands-on course for students and researchers at the intersection of statistics, probabilistic programaming, and population health
+### A hands-on course for students and researchers at the intersection of statistics, probabilistic programming, and population health
 
 **24th - 28th March 2025**
 <br/>
