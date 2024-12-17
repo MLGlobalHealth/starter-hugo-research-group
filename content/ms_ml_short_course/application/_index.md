@@ -33,7 +33,8 @@ External applicants should complete an application form (link below) that will r
 Applicants may also be required to complete a short test covering python knowledge and basic Bayesian inference.
 
 <center>
-<text style="font-size: 35px;"> <b>APPLY (link coming soon...) </b></text>
+<text style="font-size: 35px;"> <b>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeRLlR9Fjw29nsdYJKdyZ3q5WCSs2_hxmW8jw_mXMaTFjzVuQ/viewform?ts=67500eb0">APPLY</a></b></text>
 </center>
 <br>
 
