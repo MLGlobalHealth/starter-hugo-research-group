@@ -26,7 +26,8 @@ External applicants should complete an application form (link below) that will r
   + Short bio/personal statement
 
 **Registration fees:** R6,600 (ZAR)
-<br>(_The registration fee includes the 5 day course, 3 meals per day, and a social dinner_)
+<br>(_The registration fee includes the 5 day course, 3 meals per day, and a social dinner.
+      Please note that **accommodation is not included** in this fee._)
 
 **Deadline to apply:** January 31, 2025
 
@@ -38,4 +39,5 @@ External applicants should complete an application form (link below) that will r
 
 **Contact:** Dr Alexandra Blenkinsop (<stats-ml-aims@imperial.ac.uk>)
 
+**Note:** Participants are expected to arrange their own accommodation, travel, and visas (if required). For information on visas and accommodation suggestions, please refer to the <a href="https://mlgh.net/ms_ml_short_course/travel_information/"> Travel information page </a>.
 

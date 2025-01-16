@@ -34,15 +34,19 @@ main:
     parent: ms_ml_short_course
     url: ms_ml_short_course/application
     weight: 20
+  - name: Travel information
+    parent: ms_ml_short_course
+    url: ms_ml_short_course/travel_information
+    weight: 30 
   - name: Programme
     parent: ms_ml_short_course
     url: ms_ml_short_course/programme
-    weight: 30
+    weight: 40
   - name: Lecturers
     parent: ms_ml_short_course
     url: ms_ml_short_course/lecturers
-    weight: 40
+    weight: 50
   - name: Past short courses
     parent: ms_ml_short_course
     url: ms_ml_short_course/past_short_courses
-    weight: 50
+    weight: 60
