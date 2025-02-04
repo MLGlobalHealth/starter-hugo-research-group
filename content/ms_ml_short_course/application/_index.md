@@ -29,7 +29,7 @@ External applicants should complete an application form (link below) that will r
 <br>(_The registration fee includes the 5 day course, 3 meals per day, and a social dinner.
       Please note that **accommodation is not included** in this fee._)
 
-**Deadline to apply:** January 31, 2025
+**Deadline to apply (extended):** February 14, 2025
 
 <center>
 <text style="font-size: 35px;"> <b>
