@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student at the University of Copenhagen in the research group 'Computational and Mathematical Global Health Group' at the Section of Health Data Science and AI. I am also affiliated with the research group 'Social Epidemiology' at the Section of Social Medicine, UCPH. My PhD supervisors on the project are Professor Samir Bhatt and Associate Professor Terese Sara Høj Jørgensen. My work evolves around life course epidemiology and social inequality in health
+bio: I am a PhD student at the University of Copenhagen in the research group 'Computational and Mathematical Global Health Group' at the Section of Health Data Science and AI. I am also affiliated with the research group 'Social Epidemiology' at the Section of Social Medicine, UCPH. My PhD supervisors on the project are Professor Samir Bhatt and Associate Professor Terese Sara Høj Jørgensen. My work evolves around life course epidemiology and social inequality in health.
 
 # List each interest with a dash
 interests:
@@ -70,3 +70,4 @@ highlight_name: false
 user_groups:
 - Grad Students
 ---
+I am a PhD student at the University of Copenhagen in the research group 'Computational and Mathematical Global Health Group' at the Section of Health Data Science and AI. I am also affiliated with the research group 'Social Epidemiology' at the Section of Social Medicine, UCPH. My PhD supervisors on the project are Professor Samir Bhatt and Associate Professor Terese Sara Høj Jørgensen. My work evolves around life course epidemiology and social inequality in health.
