@@ -10,7 +10,7 @@ authors: daniel-laydon
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Associate in Epidemiology
+role: Advanced Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -80,3 +80,4 @@ user_groups:
 ---
 
 I am a postdoctoral researcher at the [MRC Centre for Global Infectious Disease Analysis](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis), based at the Department of Infectious Disease Epidemiology. My research is focussed on the transmission, prevention and alleviation of infectious disease. I use a combination of mathematical, statistical and computational models to study a variety of viruses, including dengue, Middle Eastern Respiratory Syndrome (MERS), and in recent years COVID-19. Since the pandemic, I have been especially interested in pandemic preparedness and emerging threats to human health.
+
